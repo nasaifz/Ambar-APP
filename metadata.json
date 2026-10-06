@@ -1,0 +1,6 @@
+{
+  "name": "AMBAR AKUNTAN - Konverter & Parser Rekening Koran BCA",
+  "description": "Aplikasi pembukuan & konverter e-Statement BCA dan bank terenkripsi ke Excel/CSV dengan parsing koordinat presisi, auto-kategorisasi cerdas, audit AI, dan dashboard finansial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
